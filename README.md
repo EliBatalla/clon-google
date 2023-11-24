@@ -2,7 +2,7 @@
 ## Descripcion 
 Hello, this is my first project: a **google clone** interface ✌️
 
-En este proyecto utilizamosel editor de codigo *Visual Studio Code y los lenguajes **HTML Y CSS.**
+En este proyecto utilizamosel editor de codigo *Visual Studio Code* y los lenguajes **HTML Y CSS.**
 
 ### Elementos del proyecto
 <ol>
